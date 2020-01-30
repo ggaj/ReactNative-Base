@@ -4,7 +4,8 @@
 Follow the steps for successful project execution
 
 Installation
-### `yarn`
+
+`yarn`
 
 ## Prompt
 * iOS  => `cd ios & pod install`
